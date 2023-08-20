@@ -49,8 +49,8 @@ To provide a user-friendly interface and a consolidated view of the prediction o
 •<b>Transactions Overview:</b> A look into transactional patterns, offering insights into shopping behaviors.<br>
 •<b>Sales Analytics:</b> Breakdown of sales, presented in daily and monthly overviews, to gauge business momentum.<br>
 <h3> Data Context:</h3>
-It's important to note that while our user recommendation page is powered by genuine insights derived from our model, data on other admin panel pages is real time ecommerce business data(refer Business Data in repository). For building our model we have used the data which is reffered from Kaggle and its factors and attributes which we have kept depends on the analysis of results which we got from the real time ecommerce business data.
-This is not a limitation of the model's capability, but rather a constraint based on the available data. When equipped with a richer dataset, our model and platform are structured to be fully functional, scaling seamlessly to the data's granularity.
+It's important to note that while our user recommendation page is powered by genuine insights derived from our model, data on other admin panel pages is real time ecommerce business data(refer Business Data in repository). For building our model we have used the data which is reffered from Kaggle and its factors and attributes which we have kept depends on the analysis of results which we got from the real time ecommerce business data.<br>
+When equipped with a richer dataset, our model and platform are structured to be fully functional, scaling seamlessly to the data's granularity.
 <h2>Deployed Link</h2>
 https://martdashxtest.onrender.com/
 <h2>Proof of Project (Detailed Model Explanation) </h2>
