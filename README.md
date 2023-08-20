@@ -48,9 +48,8 @@ To provide a user-friendly interface and a consolidated view of the prediction o
 •<b>Client Facing Products & Customers:</b> Overview of products available and details on the customer base.<br>
 •<b>Transactions Overview:</b> A look into transactional patterns, offering insights into shopping behaviors.<br>
 •<b>Sales Analytics:</b> Breakdown of sales, presented in daily and monthly overviews, to gauge business momentum.<br>
-<h3>Limitations & Data Context:</h3>
-It's important to note that while our user recommendations page is powered by genuine insights derived from our model, data on other admin panel pages is simulated. This decision stems from our limited access to expansive e-commerce datasets. The dummy data is meticulously crafted to provide a realistic view, but it's crucial for users to know its simulated nature.
-
+<h3> Data Context:</h3>
+It's important to note that while our user recommendation page is powered by genuine insights derived from our model, data on other admin panel pages is real time ecommerce business data(refer Business Data in repository). For building our model we have used the data which is reffered from Kaggle and its factors and attributes which we have kept depends on the analysis of results which we got from the real time ecommerce business data.
 This is not a limitation of the model's capability, but rather a constraint based on the available data. When equipped with a richer dataset, our model and platform are structured to be fully functional, scaling seamlessly to the data's granularity.
 <h2>Deployed Link</h2>
 https://martdashxtest.onrender.com/
