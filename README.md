@@ -51,6 +51,8 @@ To provide a user-friendly interface and a consolidated view of the prediction o
 <h3> Data Context:</h3>
 It's important to note that while our user recommendation page is powered by genuine insights derived from our model, data on other admin panel pages is real time ecommerce business data(refer Business Data in repository). For building our model we have used the data which is reffered from Kaggle and its factors and attributes which we have kept depends on the analysis of results which we got from the real time ecommerce business data.<br>
 When equipped with a richer dataset, our model and platform are structured to be fully functional, scaling seamlessly to the data's granularity.
+<h2>Model Data</h2>
+https://drive.google.com/drive/folders/1mjblgY1C_C0fmyxYrfsoI21uMptBwRQu?usp=sharing
 <h2>Deployed Link</h2>
 https://martdashxtest.onrender.com/
 <h2>Proof of Project (Detailed Model Explanation) </h2>
