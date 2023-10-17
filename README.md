@@ -1,21 +1,19 @@
 <h1 align="center">MartDashX</h1>
 
-<h2>Problem Statement:</h2>
-<h3>Personalized Product Recommendations</h3>
-The aim is to enhance user experience by implementing a personalized product ranking system.
-Your task is to develop an algorithm or model that can generate accurate and relevant product
-rankings for individual users. The ranking system should consider factors such as user
-preferences, past interactions, product popularity, and user similarity. It should be able to predict
-the most suitable products for a user based on their unique characteristics and preferences.
-You are not provided with a specific dataset for this challenge. Instead, you are expected to
-design and implement a solution that simulates user interactions and generates personalized
-rankings. You can define user profiles, product categories, and interaction patterns within your
-solution.
-To evaluate the effectiveness of your solution, you should define appropriate metrics for
-measuring the accuracy and relevance of the rankings. You should also provide a report
-explaining your approach, describing the algorithms or techniques used, and discussing the
-strengths and limitations of your solution
-<h2>Solution:</h2>
+<h2>About</h2>
+MartDashX is a cutting-edge administrative dashboard designed to empower e-commerce businesses with insightful analytics, streamlined operations, and intelligent recommendations. Developed with a deep understanding of the unique challenges faced by e-commerce administrators, MartDashX is your trusted companion for harnessing the full potential of your online store.
+## Key Features
+
+- **Client Analysis:** MartDashX empowers you to understand your customer base at a granular level. By examining user behavior, purchase history, and preferences, you can create tailored marketing strategies and improve customer satisfaction.
+
+- **Sales Analysis:** In the fast-paced world of e-commerce, keeping a close eye on sales performance is vital. MartDashX offers detailed sales reports, product performance metrics, and forecasting tools to help you optimize your inventory and boost revenue.
+
+- **Admins Performance Analysis:** Your team is the backbone of your operation. MartDashX enables you to track the performance of your admin staff, identify areas for improvement, and ensure your e-commerce business runs smoothly.
+
+- **Recommendation List:** Leveraging state-of-the-art SVD (Singular Value Decomposition) algorithms, MartDashX goes beyond basic product recommendations. It offers a sophisticated and personalized recommendation engine, which not only increases cross-selling and upselling opportunities but also enhances the user experience on your e-commerce platform.
+
+
+<h2>Approach to Recommendation Model</h2>
 <h3>1. Data Exploration (EDA):</h3>
 The dataset encompasses multiple facets of an e-commerce platform such as events (e.g., view, add to cart, purchase), item details, and category structures. Our exploratory analysis revealed:<br>
 •<b>Events Distribution: </b>Visual representation of various user actions.<br>
