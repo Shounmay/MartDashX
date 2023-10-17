@@ -59,6 +59,25 @@ To provide a user-friendly interface and a consolidated view of the prediction o
 <h3> Data Context:</h3>
 It's important to note that while our user recommendation page is powered by genuine insights derived from our model, data on other admin panel pages is real time ecommerce business data(refer Business Data in repository). For building our model we have used the data which is reffered from Kaggle and its factors and attributes which we have kept depends on the analysis of results which we got from the real time ecommerce business data.<br>
 When equipped with a richer dataset, our model and platform are structured to be fully functional, scaling seamlessly to the data's granularity.
+
+# For Contributors
+
+We welcome contributions from developers and collaborators who share our vision of enhancing MartDashX. If you're interested in contributing to the project, here are some areas where your expertise can make a significant impact:
+
+## Challenges and Areas for Improvement
+
+1. **Improve UI-rendering Speed:** Enhancing the speed and performance of our user interface is a top priority. Contributors with expertise in frontend development can help optimize the rendering speed, improve user experience, and reduce loading times.
+
+2. **Improve Model Accuracy:** Our recommendation model is at the core of MartDashX's success. We are constantly seeking ways to enhance the accuracy and relevance of recommendations. Data scientists and machine learning experts are encouraged to refine and fine-tune the recommendation algorithms.
+
+3. **Improve Login/Authentication System:** Security and user authentication are critical aspects of any e-commerce platform. We are looking for contributors to bolster the security of our authentication system, making it more robust and user-friendly.
+
+4. **Improve from Monolithic to Microservices:** MartDashX's architecture can benefit from a transition from monolithic to microservices. Contributors experienced in containerization, orchestration, and microservices architecture can assist in breaking down our application into more manageable and scalable components.
+
+Your contributions to MartDashX will not only help address these challenges but also play a significant role in the continuous improvement of our e-commerce administrative dashboard. Together, we can shape the future of data-driven e-commerce management and make a lasting impact on the industry.
+
+Please make sure to review our [Contribution Guidelines](Contribution.md) for detailed information on how to contribute, coding standards, and our development process.
+
 <h2>Model Data</h2>
 https://drive.google.com/drive/folders/1mjblgY1C_C0fmyxYrfsoI21uMptBwRQu?usp=sharing
 <h2>Deployed Link</h2>
