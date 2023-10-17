@@ -1,8 +1,5 @@
-<h1 align="center">Flipkart Grid5.0</h1>
-<h1 align="center">Team Name: Achintya</h1>
-<h2>Team Members:</h2>
-Vaibhav Ahuja<br>
-Shounmay Darsh
+<h1 align="center">MartDashX</h1>
+
 <h2>Problem Statement:</h2>
 <h3>Personalized Product Recommendations</h3>
 The aim is to enhance user experience by implementing a personalized product ranking system.
