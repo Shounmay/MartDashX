@@ -1,7 +1,16 @@
 <h1 align="center">MartDashX</h1>
 
-<h2>About</h2>
+# About MartDashX
+
 MartDashX is a cutting-edge administrative dashboard designed to empower e-commerce businesses with insightful analytics, streamlined operations, and intelligent recommendations. Developed with a deep understanding of the unique challenges faced by e-commerce administrators, MartDashX is your trusted companion for harnessing the full potential of your online store.
+
+## Tech Stack
+
+**Web Application:** MERN Stack (MongoDB, Express.js, React, Node.js)
+
+**Recommendation Model:** Python and Flask
+
+In an era where data reigns supreme, MartDashX offers e-commerce businesses the tools they need to succeed. Join us on a journey towards data-driven excellence, improved decision-making, and sustained growth. Elevate your e-commerce store with MartDashX and take the next step towards a prosperous future.
 
 ## Key Features
 
@@ -16,6 +25,8 @@ MartDashX is a cutting-edge administrative dashboard designed to empower e-comme
 <h2> Quick Walkthorugh</h2>
 
 ![5fd04a8a-6cbc-4507-b877-92a4434ac78e](https://github.com/Shounmay/MartDashX_Grid5.0/assets/85643531/a51eff8e-7f6d-4c4b-a83a-07cfc38406a3)
+
+
 
 <h2>Approach to Recommendation Model</h2>
 <h3>1. Data Exploration (EDA):</h3>
