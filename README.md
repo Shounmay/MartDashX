@@ -52,5 +52,4 @@ When equipped with a richer dataset, our model and platform are structured to be
 https://drive.google.com/drive/folders/1mjblgY1C_C0fmyxYrfsoI21uMptBwRQu?usp=sharing
 <h2>Deployed Link</h2>
 https://martdashxtest.onrender.com/
-<h2>Proof of Project (Detailed Model Explanation) </h2>
-https://docs.google.com/document/d/1jIweoUURQ54izAWvCQMFH9Z538e_QomdO-qfI6-giEw/edit?usp=sharing
+
