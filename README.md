@@ -2,6 +2,7 @@
 
 <h2>About</h2>
 MartDashX is a cutting-edge administrative dashboard designed to empower e-commerce businesses with insightful analytics, streamlined operations, and intelligent recommendations. Developed with a deep understanding of the unique challenges faced by e-commerce administrators, MartDashX is your trusted companion for harnessing the full potential of your online store.
+
 ## Key Features
 
 - **Client Analysis:** MartDashX empowers you to understand your customer base at a granular level. By examining user behavior, purchase history, and preferences, you can create tailored marketing strategies and improve customer satisfaction.
@@ -12,6 +13,9 @@ MartDashX is a cutting-edge administrative dashboard designed to empower e-comme
 
 - **Recommendation List:** Leveraging state-of-the-art SVD (Singular Value Decomposition) algorithms, MartDashX goes beyond basic product recommendations. It offers a sophisticated and personalized recommendation engine, which not only increases cross-selling and upselling opportunities but also enhances the user experience on your e-commerce platform.
 
+<h2> Quick Walkthorugh</h2>
+
+![5fd04a8a-6cbc-4507-b877-92a4434ac78e](https://github.com/Shounmay/MartDashX_Grid5.0/assets/85643531/a51eff8e-7f6d-4c4b-a83a-07cfc38406a3)
 
 <h2>Approach to Recommendation Model</h2>
 <h3>1. Data Exploration (EDA):</h3>
@@ -32,9 +36,7 @@ Our modeling approach used the Singular Value Decomposition (SVD) technique.<br>
 •<b>Hyperparameter Precision:</b> The GridSearchCV ensured our SVD model was precisely tuned. Parameters like n_factors, n_epochs, lr_all, and reg_all were meticulously selected to get the best out of our model.<br>
 •<b>Training Strategy:</b> With the best parameters identified, the model was trained to recognize patterns, behaviors, and nuances in user-item interactions.<br>
 •<b>Evaluation Rigor:</b> The model was then evaluated using the Mean Absolute Error (MAE) metric. To get a more holistic view, we also formulated an Accuracy Score and a Normalized Prediction Score.<br>
-<h2> Quick Walkthorugh</h2>
 
-![5fd04a8a-6cbc-4507-b877-92a4434ac78e](https://github.com/Shounmay/MartDashX_Grid5.0/assets/85643531/a51eff8e-7f6d-4c4b-a83a-07cfc38406a3)
 
 
 To provide a user-friendly interface and a consolidated view of the prediction outcomes and e-commerce metrics, we've developed a state-of-the-art admin panel with the following features:<br>
