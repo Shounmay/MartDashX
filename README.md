@@ -4,6 +4,9 @@
 
 MartDashX is a cutting-edge administrative dashboard designed to empower e-commerce businesses with insightful analytics, streamlined operations, and intelligent recommendations. Developed with a deep understanding of the unique challenges faced by e-commerce administrators, MartDashX is your trusted companion for harnessing the full potential of your online store.
 
+<h2>Deployed Link</h2>
+https://martdashxtest.onrender.com/
+
 ## Tech Stack
 
 **Web Application:** MERN Stack (MongoDB, Express.js, React, Node.js)
@@ -80,6 +83,5 @@ Please make sure to review our [Contribution Guidelines](Contribution.md) for de
 
 <h2>Model Data</h2>
 https://drive.google.com/drive/folders/1mjblgY1C_C0fmyxYrfsoI21uMptBwRQu?usp=sharing
-<h2>Deployed Link</h2>
-https://martdashxtest.onrender.com/
+
 
