@@ -6,7 +6,7 @@ Thank you for your interest in contributing to MartDashX! We appreciate your hel
 
 1. **Fork the Repository:** Start by forking the MartDashX repository to your GitHub account. This will create a copy of the project under your account, allowing you to work on changes without affecting the main project.
 
-2. **Clone the Repository:** Next, clone your forked repository to your local development environment using the following command:
+2. **Clone the Repository:** Next, clone your forked repository to your local development environment.
 
 
 3. **Create a New Branch:** Create a new branch for your contribution with a descriptive name. For example:
